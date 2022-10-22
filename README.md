@@ -5,7 +5,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>world wide web</title>
-  <link rel="stylesheet" href="frant.css">
   <style>
     body{
     margin: 0;
@@ -636,7 +635,6 @@ background-color: white;
      }
   
 </script>
-  <script src="frant.js"></script>
 </body>
 </html>
 
